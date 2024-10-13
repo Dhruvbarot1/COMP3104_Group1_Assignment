@@ -1,0 +1,4 @@
+COMP 3104 is focused on DevOps and continuous integration.
+The course covers Git, CI/CD, and automation.
+It emphasizes hands-on experience with tools like Jenkins.
+Students also learn about cloud infrastructure and deployment.
