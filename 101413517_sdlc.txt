@@ -1,1 +1,1 @@
-Importance of learning DevOps in the software development cycle.
+DevOps plays a crucial role in the Software Development Life Cycle (SDLC).
