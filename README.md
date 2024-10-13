@@ -1,4 +1,4 @@
-# COMP3104_Group1_Assignment
+# COMP3104_Group39_Assignment
 
 ## Group Members
 - **Leader:** Dhruv Barot (101415874) - [GitHub](https://github.com/Dhruvbarot1)
