@@ -1,1 +1,1 @@
-Information about the COMP 3104 DevOps course.
+COMP 3104 is focused on DevOps and continuous integration.
