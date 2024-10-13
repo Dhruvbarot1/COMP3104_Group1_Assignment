@@ -1,1 +1,2 @@
 DevOps plays a crucial role in the Software Development Life Cycle (SDLC).
+In SDLC, DevOps ensures faster delivery with high quality.
