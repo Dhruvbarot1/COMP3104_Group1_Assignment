@@ -1,1 +1,2 @@
 COMP 3104 is focused on DevOps and continuous integration.
+The course covers Git, CI/CD, and automation.
