@@ -1,2 +1,3 @@
 DevOps emphasizes collaboration between development and operations teams.
 Continuous integration (CI) and continuous delivery (CD) are crucial for quick deployments.
+DevOps supports agile methodologies by enabling faster iteration cycles.
