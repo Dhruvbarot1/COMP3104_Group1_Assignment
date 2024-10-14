@@ -1,1 +1,2 @@
 Details on Software Development Cycle:
+DevOps accelerates the delivery of software updates and new features
