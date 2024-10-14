@@ -1,2 +1,0 @@
-DevOps accelerates the delivery of software updates and new features
-Automation in DevOps minimizes manual tasks, thereby reducing time spent on repetitive activities and allowing developers to focus more on innovation.
