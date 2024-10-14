@@ -1,0 +1,4 @@
+Details on COMP3104
+COMP3104 is designed to prepare professionals entering the IT field.
+COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps technologies
+Our Professor for this course is Pritesh Patel
