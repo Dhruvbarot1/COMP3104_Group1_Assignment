@@ -1,3 +1,0 @@
-COMP3104 is a DevOps course that focuses on CI/CD pipelines and cloud computing.
-The course covers tools like Git, Docker, and Jenkins for DevOps practices.
-By the end of COMP3104, students can deploy scalable applications using cloud services.
